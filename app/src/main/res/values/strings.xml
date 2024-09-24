@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PrimeraApp_Mabf</string>
+    <string name="send">Send</string>
+    <string name="name_input">"Write your name: "</string>
+</resources>
